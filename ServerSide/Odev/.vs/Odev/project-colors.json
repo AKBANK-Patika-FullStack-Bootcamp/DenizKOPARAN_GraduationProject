@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "27ebe217-47bd-44e5-889f-17678cacf26d": {
+      "ProjectGuid": "27ebe217-47bd-44e5-889f-17678cacf26d",
+      "DisplayName": "Odev",
+      "ColorIndex": 0
+    },
+    "748869e4-1f96-4cc1-aded-79d18d5dd86f": {
+      "ProjectGuid": "748869e4-1f96-4cc1-aded-79d18d5dd86f",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "62681371-33fd-4f61-a065-46e78c8c2595": {
+      "ProjectGuid": "62681371-33fd-4f61-a065-46e78c8c2595",
+      "DisplayName": "Entity",
+      "ColorIndex": 2
+    },
+    "2d380547-a32b-44a6-82ae-9d7e7522563a": {
+      "ProjectGuid": "2d380547-a32b-44a6-82ae-9d7e7522563a",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "7f38ae07-490c-4ba4-825d-537e8c2c77e8": {
+      "ProjectGuid": "7f38ae07-490c-4ba4-825d-537e8c2c77e8",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
